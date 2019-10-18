@@ -1,1 +1,18 @@
+model	metrics	result
+Logistic	ROC_AUC	0.854
+Logistic	Precision	0.71
+Logistic	Recall	0.71
+Logistic	F1	0.71
+RF	ROC_AUC	0.896
+RF	Precision	0.89
+RF	Recall	0.79
+RF	F1	0.84
+XGB	ROC_AUC	0.976
+XGB	Precision	0.9996
+XGB	Recall	0.9998
+XGB	F1	0.9997
+GBM	ROC_AUC	0.956
+GBM	Precision	0.9997
+GBM	Recall	0.9952
+GBM	F1	0.9997
 
